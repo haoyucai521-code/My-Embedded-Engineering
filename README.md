@@ -15,7 +15,3 @@
 - Bootloader
 - AI Assisted Development
 
-
-## Goal
-
-成为具备系统设计能力的嵌入式工程师。
